@@ -1,0 +1,2 @@
+# Color-Game
+It is a game which could be termed as the memory muscle power game. This game is played by memorising the sequence of colors starting from the level one to increase one by one, By increase in the level of the game one by one, you need to memorize the each previous color pattern in the game to stay, once you forget and click on the wrong color, the game immediately ends at the moment, and start from the starting on level zero, You can re-start the game by pressing any key to start again in the game, Enjoy your Game!!
